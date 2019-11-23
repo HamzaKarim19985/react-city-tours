@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+$mainGreen: #82b340;
+
+body {
+  background: $mainGrey;
+  color: $mainGreen;
+  font-family: "Raleway", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
